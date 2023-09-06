@@ -1,0 +1,103 @@
+body {
+  background-color: #222;
+}
+.again {
+  border: solid white;
+  height: 40px;
+  width: 120px;
+  font-size: 30px;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.between {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+  text-align: right;
+  justify-content: center;
+  margin-top: -30px;
+}
+.guess {
+  color: white;
+  font-size: 60px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin-top: 30px;
+}
+.line1 {
+  border: solid white;
+  height: 3px;
+  width: 723px;
+  margin-top: 25px;
+  position: absolute;
+  background-color: white;
+}
+.showBox {
+  border: solid white;
+  height: 60px;
+  width: 60px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+.line2 {
+  border: solid white;
+  height: 3px;
+  width: 723px;
+  margin-top: 20px;
+
+  justify-content: right;
+  float: right;
+  margin-top: -35px;
+  background-color: white;
+}
+.input {
+  border: solid 4px white;
+  height: 60px;
+  width: 170px;
+  background-color: black;
+  margin-top: 50px;
+  margin-left: 40px;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.guessing {
+  font-size: 50px;
+  color: white;
+  text-align: right;
+  margin-top: -70px;
+  margin-right: 30px;
+}
+.check {
+  border: solid white;
+  height: 40px;
+  width: 120px;
+  font-size: 30px;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 65px;
+}
+.labelScore {
+  color: white;
+  font-size: 30px;
+  margin-left: 275px;
+  margin-top: -125px;
+}
+.labelHighscore {
+  color: white;
+  font-size: 30px;
+  margin-left: 275px;
+  margin-top: 20px;
+}
